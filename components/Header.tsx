@@ -19,9 +19,10 @@ const Header = () => {
           <div className="flex items-center gap-5 justify-center xl:w-max">
             <Link href="/">
               <Image
-                src="/assets/bloomtalya.png"
-                width={180}
-                height={180}
+                src="/assets/globalLogo.png"
+                width={80}
+                height={80}
+                className="rotate-2"
                 alt="Logo"
               />
             </Link>

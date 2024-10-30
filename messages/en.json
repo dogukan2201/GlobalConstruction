@@ -1,20 +1,20 @@
 {
   "Navbar": {
-    "title": "Your House In Antalya",
-    "home": "Bloomtalya Pansion",
+    "title": "A Solid Foundation For Tomorrow",
+    "home": "Global Grup Construction",
     "about": "About",
     "gallery": "Gallery",
-    "roomss": "Rooms",
+    "roomss": "Our Works",
     "contact": "Contact"
   },
   "Hero": {
-    "Welcome": "WELCOME TO BLOOMTALYA Pension",
+    "Welcome": "Global Grup Construction",
     "Reservation": "Make a Reservation"
   },
   "Faq": {
     "title": "Frequently Asked Questions",
     "description": "If you have any further questions, please email.",
-    "q1": "Bloomtalya Pansiyon, free cancellation for refund does he offer?",
+    "q1": "Global Grup İnşaat, free cancellation for refund does he offer?",
     "a1": "Yes, fully refundable rooms are offered. Be sure to check their cancellation policy.",
     "q2": "Is there parking available?",
     "a2": "Yes, free self parking is available.",
@@ -23,10 +23,10 @@
     "q4": "Do you accept pets?",
     "a4": "Unfortunately, we cannot accept pets.",
     "q5": "What are the amenities nearby?",
-    "a5": "Bloomtalya Pansiyon offers a garden."
+    "a5": "Global Grup İnşaat offers a garden."
   },
   "Rooms": {
-    "title": "Our Rooms",
+    "title": "Our Works",
     "jacuzziRoom": "Jacuzzi Suite Room",
     "familyRoom": "Family Room",
     "standardRoom": "Standard Room",
@@ -43,7 +43,7 @@
   "About": {
     "title": "About Us",
     "description": "Who Are We ?",
-    "content": "Bloomtalya Pansiyon, which opened in 2023,\n is delighted to welcome you, our esteemed guests, in one of the most beautiful locations in Antalya.\n Our rooms, designed with modern architecture and attention to every detail,\n are equipped with the highest quality standards, ensuring that every aspect is meticulously provided for your comfort.\n Located in the center of Antalya, our hotel offers easy access to the city's main attractions, including the enchanting Kaleiçi district.\n Just a 15-minute walk from the historic Kaleiçi, Bloomtalya Pansiyon is the ideal starting point for discovering the beauty that Antalya has to offer."
+    "content": "Global Grup İnşaat, which opened in 2023,\n is delighted to welcome you, our esteemed guests, in one of the most beautiful locations in Antalya.\n Our Works, designed with modern architecture and attention to every detail,\n are equipped with the highest quality standards, ensuring that every aspect is meticulously provided for your comfort.\n Located in the center of Antalya, our hotel offers easy access to the city's main attractions, including the enchanting Kaleiçi district.\n Just a 15-minute walk from the historic Kaleiçi, Global Grup İnşaat is the ideal starting point for discovering the beauty that Antalya has to offer."
   },
   "Contact": {
     "title": "Contact",
@@ -63,7 +63,7 @@
     "messageRequired": "Message is required",
     "submitButton": "Send",
     "suggestionHeader": "Any suggestions or requests",
-    "suggestionText": "You can share your suggestions and requests regarding our hotel with us.\nYour feedback is valuable to us!",
+    "suggestionText": "You can share your suggestions and requests regarding  with us.\nYour feedback is valuable to us!",
     "suggestionMessage": "Your feedback is valuable to us!"
   },
   "Features": {
@@ -82,17 +82,17 @@
     "airConditioningDescription": "Climate control in all rooms for your comfort"
   },
   "Footer": {
-    "copyright": "Copyright © 2023 Bloomtalya Pansion. All rights reserved.",
-    "address": "Kızıltoprak, 902. St. No: 2, Door No:1, 07300 Muratpaşa/Antalya, Turkey",
-    "phone": "+90 (505) 534 30 30",
-    "email": "reservation@bloomtalyapansiyon.com.tr",
+    "copyright": "Copyright © 2023 Global Grup Construction. All rights reserved.",
+    "address": "Reşadiye Mah. Hacıosmanoğlu Cad.No:2 Maçka/Trabzon",
+    "phone": "+90 (532) 165 36 61",
+    "email": "globalgrupinsaatt@gmail.com",
     "social": "Social Media",
     "contact": "Contact",
     "location": "Where Are We?",
     "rights": "All Rights Reserved"
   },
   "Dropdown": {
-    "ourRooms": "Our Rooms",
+    "ourRooms": "Our Works",
     "allRooms": "All Rooms",
     "jacuzziRoom": "Jacuzzi Suite Room",
     "familyRoom": "Family Room",
@@ -109,7 +109,7 @@
   },
   "JacuzziRoom": {
     "info": "Jacuzzi Suite Room",
-    "description": "Our modernly designed room includes one double bed and one single bed. Suitable for up to 3 adults and 1 child. Our rooms are generally clean and functional. For more information, you can reach us via our WhatsApp number or call us directly.",
+    "description": "Our modernly designed room includes one double bed and one single bed. Suitable for up to 3 adults and 1 child. Our Works are generally clean and functional. For more information, you can reach us via our WhatsApp number or call us directly.",
     "price": "3256₺ / Per Night",
     "tabAbout": "Room Features",
     "reserveButton": "Make a Reservation"
@@ -136,9 +136,9 @@
     "reserveButton": "Make a Reservation"
   },
   "infoDropdown": {
-    "title": "Bloomtalya Pansiyon",
-    "subtitle": "Your Hause In Antalya",
-    "whatsapp": "WhatsApp Contact",
+    "title": "Global Grup İnşaat",
+    "subtitle": "A Solid Foundation For Tomorrow",
+    "whatsapp": "WhatsApp",
     "email": "Send Email",
     "call": "Call Us"
   }

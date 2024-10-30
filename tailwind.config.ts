@@ -22,20 +22,20 @@ const config = {
       secondary: "var(--font-urbanist)",
     },
     backgroundImage: {
-      hero: 'url("/assets/hero/bg.jpg")', //EFEKAN FOTO
+      hero: 'url("/assets/hero/bg.jpg")',
     },
     extend: {
       colors: {
         primary: {
           DEFAULT: "#434343",
-          hover: "#F7C873",
+          hover: "#EAD37E",
         },
         secondary: {
-          DEFAULT: "#FAEBCD",
+          DEFAULT: "#EAD37E",
         },
         accent: {
           DEFAULT: "#434343",
-          hover: "#F7C873",
+          hover: "#FAAA26",
         },
         tertiary: {
           DEFAULT: "#faf5ef",

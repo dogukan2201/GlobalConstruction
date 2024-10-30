@@ -24,10 +24,10 @@ const urbanist = Urbanist({
 });
 
 export const metadata: Metadata = {
-  title: "Bloomtalya Pansiyon",
+  title: "Global Grup İnşaat",
   description: "Bloomtalya otel",
   icons: {
-    icon: "/assets/bloomtalya.png",
+    icon: "/assets/globalLogo.png",
   },
 };
 

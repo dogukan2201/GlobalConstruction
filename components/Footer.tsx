@@ -45,15 +45,14 @@ const Footer = () => {
           <div className="flex flex-col justify-center items-center lg:items-start h-full text-center lg:text-left">
             <Link href="/">
               <Image
-                src="/assets/bloomtalya.png"
+                src="/assets/globalLogo.png"
                 width={200}
                 height={200}
                 alt="Logo"
               />
             </Link>
             <h1 className="text-white mt-4">
-              &copy; {new Date().getFullYear()} Bloomtalya Pansiyon{" "}
-              {t("rights")}
+              &copy; {new Date().getFullYear()} Global Grup İnşaat {t("rights")}
             </h1>
           </div>
 
